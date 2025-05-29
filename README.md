@@ -3,7 +3,7 @@
 This is the personal portfolio and blog of a cloud-native, security-aware data/ML engineer focused on AI and API threat surfaces.
 
 ## Live Blog
-Coming soon: [0xcarnemuerta.github.io](https://0xcarnemuerta.github.io)
+Coming soon: [https://github.com/eclayj/0xcarnemuerta.github.io](https://0xcarnemuerta.github.io)
 
 ## Topics
 - Prompt Injection
