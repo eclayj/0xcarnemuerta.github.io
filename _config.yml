@@ -1,4 +1,6 @@
 title: 0xCARNEMUERTA
+header_pages:
+  - _about.md
 description: >
   Blog and portfolio of a cloud-native, security-aware data/ML engineer
 baseurl: ""
