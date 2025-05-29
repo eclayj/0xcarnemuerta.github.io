@@ -6,3 +6,15 @@ description: >
 baseurl: ""
 url: "https://0xcarnemuerta.github.io"
 theme: minima
+
+sass:
+  style: compressed
+
+# Add this line
+include:
+  - assets/css/custom.css
+
+# If not already there, also add:
+minima:
+  skin: classic
+  social_links: []  # optional
