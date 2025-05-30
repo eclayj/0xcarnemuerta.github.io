@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- 💀 Favicon -->
+    <link rel="icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
+
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  </head>
+  <body>
