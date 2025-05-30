@@ -1,16 +1,15 @@
 ---
 layout: page
-title: "Hack The Box Academy"
+title: "Hack The Box"
 permalink: /htb/
 ---
+##Hack The Box
 
-## Hack The Box profile
+I am an active participant on the Hack The Box platform. I am also working through several learning paths on Hack The Box Academy, one of which will culminate in sitting for the CPTS (Certified Penetration Testing Specialist) certification.
 
 [![HTB Academy](https://academy.hackthebox.com/images/logo.svg)](https://app.hackthebox.com/profile/2165580)
 
-I'm actively progressing through HTB Academy's modules and paths to deepen my cybersecurity expertise.
-
-- 🛡️ Ongoing Paths: [Mention any paths you're currently undertaking]
+## 🛡️ Ongoing Learning Paths:
 Penetration Tester 
 AI Red Teamer
 
