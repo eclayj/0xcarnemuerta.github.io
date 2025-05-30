@@ -9,9 +9,14 @@ theme: minima
 
 header_pages:
   - about.md
+  - certs.md	
 
 sass:
   style: compressed
 
 include:
   - assets/css/custom.css
+
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"
