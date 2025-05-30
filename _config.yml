@@ -22,12 +22,6 @@ excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/page:num/"
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      head_custom: head.html
-
+favicon: /assets/images/favicon.png
 
 # Trigger rebuild
