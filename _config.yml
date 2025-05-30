@@ -1,7 +1,8 @@
 title: 0xCARNEMUERTA
 description: >
   Blog and portfolio of a cloud-native, security-aware data/ML engineer
-baseurl: "/0xcarnemuerta.github.io"
+
+baseurl: "/0xcarnemuerta.github.io" # Note the leading slash
 url: "https://eclayj.github.io"
 
 theme: minima
