@@ -1,10 +1,10 @@
 title: 0xCARNEMUERTA
 description: >
   Blog and portfolio of a cloud-native, security-aware data/ML engineer
-baseurl: ""
-url: "https://eclayj.github.io/0xcarnemuerta.github.io"
+baseurl: "/0xcarnemuerta.github.io"
+url: "https://eclayj.github.io"
 
-remote_theme: jekyll/minima
+theme: minima
 
 header_pages:
   - about.md
