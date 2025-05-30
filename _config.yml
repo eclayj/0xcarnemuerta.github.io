@@ -9,7 +9,8 @@ theme: minima
 
 header_pages:
   - about.md
-  - certs.md	
+  - certs.md
+  - htb.md	
 
 sass:
   style: compressed
