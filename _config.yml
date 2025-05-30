@@ -18,5 +18,6 @@ include:
   - assets/css/custom.css
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/page:num/"

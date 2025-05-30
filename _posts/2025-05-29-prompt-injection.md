@@ -2,13 +2,14 @@
 layout: post
 title: "Prompt Injection: Dead Data and Exploitable AI"
 date: 2025-05-29
-categories: ai-security prompt-injection
+categories: [AI Security, Prompt Injection]
+tags: [gpt-3.5, injections, token-overrides, logging]
 ---
 
 ## Overview
 
 In this post, I demonstrate how **LLMs can be manipulated through prompt injection** — and why these attack surfaces matter when integrating AI into real-world systems. The tests below were executed using the OpenAI Python SDK v1.x and logged for classification.
-
+<!--more-->
 ---
 
 ## ☠️ The Setup
