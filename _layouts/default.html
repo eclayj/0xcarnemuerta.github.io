@@ -1,23 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     {{ site.head }}
   </head>
+
   <body>
-    <header>
-      <h1>{{ site.title }}</h1>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      </div>
     </header>
 
-    <main>
-      {{ content }}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </main>
 
-    <footer>
-      <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      </div>
     </footer>
   </body>
 </html>
-
