@@ -1,20 +1,15 @@
 title: 0xCARNEMUERTA
-header_pages:
-  - _about.md
 description: >
   Blog and portfolio of a cloud-native, security-aware data/ML engineer
 baseurl: ""
-url: "https://0xcarnemuerta.github.io"
+url: "https://eclayj.github.io/0xcarnemuerta.github.io"
 theme: minima
+
+header_pages:
+  - about.md
 
 sass:
   style: compressed
 
-# Add this line
 include:
   - assets/css/custom.css
-
-# If not already there, also add:
-minima:
-  skin: classic
-  social_links: []  # optional

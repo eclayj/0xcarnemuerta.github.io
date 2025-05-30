@@ -17,4 +17,3 @@ I explore threat surfaces across:
 My goal? To break things ethically — and then build them back better, stronger, and safer.
 
 > Exploiting data, securing AI, and living between the tokens and the dead prompts.
-
