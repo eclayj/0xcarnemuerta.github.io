@@ -3,7 +3,8 @@ description: >
   Blog and portfolio of a cloud-native, security-aware data/ML engineer
 baseurl: ""
 url: "https://eclayj.github.io/0xcarnemuerta.github.io"
-theme: minima
+
+remote_theme: jekyll/minima
 
 header_pages:
   - about.md
