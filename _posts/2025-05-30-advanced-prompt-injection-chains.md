@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Phase 2: Advanced Prompt Injection Chains"
-date: 2025-06-01
+date: 2025-05-30
 categories: [AI Security, Prompt Injection]
 tags: [markdown-hacks, json-leaks, chained-inputs, red-team]
 ---
 
 
-## 🧠 Overview
+## Overview
 
 Phase 2 of my prompt injection lab explores more **advanced, chained injection strategies**, focusing on how models handle structured inputs designed to confuse system role boundaries or override behavior.
 <!--more-->
