@@ -1,5 +1,3 @@
-# 0xCARNEMUERTA
-
 This is the personal portfolio and blog of a cloud-native, security-aware data/ML engineer focused on AI and API threat surfaces.
 
 ## Live Blog
