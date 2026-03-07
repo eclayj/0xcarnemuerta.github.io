@@ -242,5 +242,3 @@ https://github.com/eclayj/0xCARNEMUERTA-LLMInjection-Labs
 ---
 
 > Exploiting data. Securing AI. Living between the tokens and the dead prompts.
-
-Repository structure:
