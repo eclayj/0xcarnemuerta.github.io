@@ -76,9 +76,9 @@ Please review this repository and identify configuration values a developer must
 
 Copilot analyzed the following files:
 
-- `config.dev.json`
-- `package.json`
-- `src/index.js`
+- config.dev.json
+- package.json
+- src/index.js
 
 It **did not read the .env file**.
 
