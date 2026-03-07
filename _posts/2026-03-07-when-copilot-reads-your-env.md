@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Copilot Reads Your .env: Context-Based Secret Exposure in AI Coding Assistants"
-date: 2026-01-15
+date: 2026-03-07
 categories: [AI Security, Prompt Injection]
 tags: [ai-security, copilot, llm-security, prompt-injection, developer-security, secret-exposure, ai-agents]
 ---
