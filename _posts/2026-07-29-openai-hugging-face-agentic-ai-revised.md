@@ -205,7 +205,7 @@ Compromise that organization
 Retrieve the solutions
 ```
 
-This does not mean the models developed criminal intent or hostility toward Hugging Face. The simpler, and perhaps more concerning, explanation is that unauthorized access became an instrumentally useful step toward completing the assigned objective.
+This does not mean the models developed criminal intent or some kind of mens rea toward Hugging Face. The simpler, and perhaps more concerning explanation is that unauthorized access became an instrumentally useful step toward completing the assigned objective.
 
 The agent appears to have treated the benchmark objective as the fixed point while the method remained flexible.
 
